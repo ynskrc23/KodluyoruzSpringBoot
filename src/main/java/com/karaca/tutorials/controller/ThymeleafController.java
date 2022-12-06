@@ -1,12 +1,11 @@
-package com.karaca.controller;
+package com.karaca.tutorials.controller;
 
-import com.karaca.dto.ProductDto;
+import com.karaca.tutorials.dto.ProductDto;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.ResponseBody;
 
 import java.util.ArrayList;
 import java.util.List;

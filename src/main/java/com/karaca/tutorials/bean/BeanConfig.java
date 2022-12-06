@@ -1,6 +1,6 @@
-package com.karaca.bean;
+package com.karaca.tutorials.bean;
 
-import com.karaca.dto.BeanDto;
+import com.karaca.tutorials.dto.BeanDto;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Scope;

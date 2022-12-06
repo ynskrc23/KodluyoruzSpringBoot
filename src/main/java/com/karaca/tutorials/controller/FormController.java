@@ -1,6 +1,6 @@
-package com.karaca.controller;
+package com.karaca.tutorials.controller;
 
-import com.karaca.dto.TeacherDto;
+import com.karaca.tutorials.dto.TeacherDto;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

@@ -1,4 +1,4 @@
-package com.karaca.controller;
+package com.karaca.tutorials.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
