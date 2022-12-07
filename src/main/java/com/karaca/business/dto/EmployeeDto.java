@@ -1,4 +1,4 @@
-package com.karaca.dto;
+package com.karaca.business.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

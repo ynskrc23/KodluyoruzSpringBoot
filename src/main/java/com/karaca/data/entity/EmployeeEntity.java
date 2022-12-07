@@ -1,4 +1,4 @@
-package com.karaca.entity;
+package com.karaca.data.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
